@@ -1,0 +1,235 @@
+"reason_key";"reason_id";"reason_desc";"date_year"
+1;"1";"AIDS";2017
+2;"1";"AIDS";2016
+3;"1";"AIDS";2015
+4;"1";"AIDS";2014
+5;"1";"AIDS";2013
+6;"1";"AIDS";2012
+7;"1";"AIDS";2011
+8;"1";"AIDS";2010
+9;"1";"AIDS";2009
+10;"1";"AIDS";2008
+11;"1";"AIDS";2007
+12;"1";"AIDS";2006
+13;"1";"AIDS";2005
+14;"1";"AIDS";2004
+15;"1";"AIDS";2003
+16;"1";"AIDS";2002
+17;"1";"AIDS";2001
+18;"1";"AIDS";2000
+19;"2";"Acute lower respiratory infections";2017
+20;"2";"Acute lower respiratory infections";2016
+21;"2";"Acute lower respiratory infections";2015
+22;"2";"Acute lower respiratory infections";2014
+23;"2";"Acute lower respiratory infections";2013
+24;"2";"Acute lower respiratory infections";2012
+25;"2";"Acute lower respiratory infections";2011
+26;"2";"Acute lower respiratory infections";2010
+27;"2";"Acute lower respiratory infections";2009
+28;"2";"Acute lower respiratory infections";2008
+29;"2";"Acute lower respiratory infections";2007
+30;"2";"Acute lower respiratory infections";2006
+31;"2";"Acute lower respiratory infections";2005
+32;"2";"Acute lower respiratory infections";2004
+33;"2";"Acute lower respiratory infections";2003
+34;"2";"Acute lower respiratory infections";2002
+35;"2";"Acute lower respiratory infections";2001
+36;"2";"Acute lower respiratory infections";2000
+37;"3";"Birth asphyxia and birth trauma";2017
+38;"3";"Birth asphyxia and birth trauma";2016
+39;"3";"Birth asphyxia and birth trauma";2015
+40;"3";"Birth asphyxia and birth trauma";2014
+41;"3";"Birth asphyxia and birth trauma";2013
+42;"3";"Birth asphyxia and birth trauma";2012
+43;"3";"Birth asphyxia and birth trauma";2011
+44;"3";"Birth asphyxia and birth trauma";2010
+45;"3";"Birth asphyxia and birth trauma";2009
+46;"3";"Birth asphyxia and birth trauma";2008
+47;"3";"Birth asphyxia and birth trauma";2007
+48;"3";"Birth asphyxia and birth trauma";2006
+49;"3";"Birth asphyxia and birth trauma";2005
+50;"3";"Birth asphyxia and birth trauma";2004
+51;"3";"Birth asphyxia and birth trauma";2003
+52;"3";"Birth asphyxia and birth trauma";2002
+53;"3";"Birth asphyxia and birth trauma";2001
+54;"3";"Birth asphyxia and birth trauma";2000
+55;"4";"Congenital anomalies";2017
+56;"4";"Congenital anomalies";2016
+57;"4";"Congenital anomalies";2015
+58;"4";"Congenital anomalies";2014
+59;"4";"Congenital anomalies";2013
+60;"4";"Congenital anomalies";2012
+61;"4";"Congenital anomalies";2011
+62;"4";"Congenital anomalies";2010
+63;"4";"Congenital anomalies";2009
+64;"4";"Congenital anomalies";2008
+65;"4";"Congenital anomalies";2007
+66;"4";"Congenital anomalies";2006
+67;"4";"Congenital anomalies";2005
+68;"4";"Congenital anomalies";2004
+69;"4";"Congenital anomalies";2003
+70;"4";"Congenital anomalies";2002
+71;"4";"Congenital anomalies";2001
+72;"4";"Congenital anomalies";2000
+73;"5";"Diarrhoeal diseases";2017
+74;"5";"Diarrhoeal diseases";2016
+75;"5";"Diarrhoeal diseases";2015
+76;"5";"Diarrhoeal diseases";2014
+77;"5";"Diarrhoeal diseases";2013
+78;"5";"Diarrhoeal diseases";2012
+79;"5";"Diarrhoeal diseases";2011
+80;"5";"Diarrhoeal diseases";2010
+81;"5";"Diarrhoeal diseases";2009
+82;"5";"Diarrhoeal diseases";2008
+83;"5";"Diarrhoeal diseases";2007
+84;"5";"Diarrhoeal diseases";2006
+85;"5";"Diarrhoeal diseases";2005
+86;"5";"Diarrhoeal diseases";2004
+87;"5";"Diarrhoeal diseases";2003
+88;"5";"Diarrhoeal diseases";2002
+89;"5";"Diarrhoeal diseases";2001
+90;"5";"Diarrhoeal diseases";2000
+91;"6";"Injuries";2017
+92;"6";"Injuries";2016
+93;"6";"Injuries";2015
+94;"6";"Injuries";2014
+95;"6";"Injuries";2013
+96;"6";"Injuries";2012
+97;"6";"Injuries";2011
+98;"6";"Injuries";2010
+99;"6";"Injuries";2009
+100;"6";"Injuries";2008
+101;"6";"Injuries";2007
+102;"6";"Injuries";2006
+103;"6";"Injuries";2005
+104;"6";"Injuries";2004
+105;"6";"Injuries";2003
+106;"6";"Injuries";2002
+107;"6";"Injuries";2001
+108;"6";"Injuries";2000
+109;"7";"Malaria";2017
+110;"7";"Malaria";2016
+111;"7";"Malaria";2015
+112;"7";"Malaria";2014
+113;"7";"Malaria";2013
+114;"7";"Malaria";2012
+115;"7";"Malaria";2011
+116;"7";"Malaria";2010
+117;"7";"Malaria";2009
+118;"7";"Malaria";2008
+119;"7";"Malaria";2007
+120;"7";"Malaria";2006
+121;"7";"Malaria";2005
+122;"7";"Malaria";2004
+123;"7";"Malaria";2003
+124;"7";"Malaria";2002
+125;"7";"Malaria";2001
+126;"7";"Malaria";2000
+127;"8";"Measles";2017
+128;"8";"Measles";2016
+129;"8";"Measles";2015
+130;"8";"Measles";2014
+131;"8";"Measles";2013
+132;"8";"Measles";2012
+133;"8";"Measles";2011
+134;"8";"Measles";2010
+135;"8";"Measles";2009
+136;"8";"Measles";2008
+137;"8";"Measles";2007
+138;"8";"Measles";2006
+139;"8";"Measles";2005
+140;"8";"Measles";2004
+141;"8";"Measles";2003
+142;"8";"Measles";2002
+143;"8";"Measles";2001
+144;"8";"Measles";2000
+145;"9";"Meningitis - encephalitis";2017
+146;"9";"Meningitis - encephalitis";2016
+147;"9";"Meningitis - encephalitis";2015
+148;"9";"Meningitis - encephalitis";2014
+149;"9";"Meningitis - encephalitis";2013
+150;"9";"Meningitis - encephalitis";2012
+151;"9";"Meningitis - encephalitis";2011
+152;"9";"Meningitis - encephalitis";2010
+153;"9";"Meningitis - encephalitis";2009
+154;"9";"Meningitis - encephalitis";2008
+155;"9";"Meningitis - encephalitis";2007
+156;"9";"Meningitis - encephalitis";2006
+157;"9";"Meningitis - encephalitis";2005
+158;"9";"Meningitis - encephalitis";2004
+159;"9";"Meningitis - encephalitis";2003
+160;"9";"Meningitis - encephalitis";2002
+161;"9";"Meningitis - encephalitis";2001
+162;"9";"Meningitis - encephalitis";2000
+163;"10";"Other communicable perinatal and nutritional conditions";2017
+164;"10";"Other communicable perinatal and nutritional conditions";2016
+165;"10";"Other communicable perinatal and nutritional conditions";2015
+166;"10";"Other communicable perinatal and nutritional conditions";2014
+167;"10";"Other communicable perinatal and nutritional conditions";2013
+168;"10";"Other communicable perinatal and nutritional conditions";2012
+169;"10";"Other communicable perinatal and nutritional conditions";2011
+170;"10";"Other communicable perinatal and nutritional conditions";2010
+171;"10";"Other communicable perinatal and nutritional conditions";2009
+172;"10";"Other communicable perinatal and nutritional conditions";2008
+173;"10";"Other communicable perinatal and nutritional conditions";2007
+174;"10";"Other communicable perinatal and nutritional conditions";2006
+175;"10";"Other communicable perinatal and nutritional conditions";2005
+176;"10";"Other communicable perinatal and nutritional conditions";2004
+177;"10";"Other communicable perinatal and nutritional conditions";2003
+178;"10";"Other communicable perinatal and nutritional conditions";2002
+179;"10";"Other communicable perinatal and nutritional conditions";2001
+180;"10";"Other communicable perinatal and nutritional conditions";2000
+181;"11";"Other noncommunicable diseases";2017
+182;"11";"Other noncommunicable diseases";2016
+183;"11";"Other noncommunicable diseases";2015
+184;"11";"Other noncommunicable diseases";2014
+185;"11";"Other noncommunicable diseases";2013
+186;"11";"Other noncommunicable diseases";2012
+187;"11";"Other noncommunicable diseases";2011
+188;"11";"Other noncommunicable diseases";2010
+189;"11";"Other noncommunicable diseases";2009
+190;"11";"Other noncommunicable diseases";2008
+191;"11";"Other noncommunicable diseases";2007
+192;"11";"Other noncommunicable diseases";2006
+193;"11";"Other noncommunicable diseases";2005
+194;"11";"Other noncommunicable diseases";2004
+195;"11";"Other noncommunicable diseases";2003
+196;"11";"Other noncommunicable diseases";2002
+197;"11";"Other noncommunicable diseases";2001
+198;"11";"Other noncommunicable diseases";2000
+199;"12";"Prematurity";2017
+200;"12";"Prematurity";2016
+201;"12";"Prematurity";2015
+202;"12";"Prematurity";2014
+203;"12";"Prematurity";2013
+204;"12";"Prematurity";2012
+205;"12";"Prematurity";2011
+206;"12";"Prematurity";2010
+207;"12";"Prematurity";2009
+208;"12";"Prematurity";2008
+209;"12";"Prematurity";2007
+210;"12";"Prematurity";2006
+211;"12";"Prematurity";2005
+212;"12";"Prematurity";2004
+213;"12";"Prematurity";2003
+214;"12";"Prematurity";2002
+215;"12";"Prematurity";2001
+216;"12";"Prematurity";2000
+217;"13";"Sepsis and other infectious conditions of the newborn";2017
+218;"13";"Sepsis and other infectious conditions of the newborn";2016
+219;"13";"Sepsis and other infectious conditions of the newborn";2015
+220;"13";"Sepsis and other infectious conditions of the newborn";2014
+221;"13";"Sepsis and other infectious conditions of the newborn";2013
+222;"13";"Sepsis and other infectious conditions of the newborn";2012
+223;"13";"Sepsis and other infectious conditions of the newborn";2011
+224;"13";"Sepsis and other infectious conditions of the newborn";2010
+225;"13";"Sepsis and other infectious conditions of the newborn";2009
+226;"13";"Sepsis and other infectious conditions of the newborn";2008
+227;"13";"Sepsis and other infectious conditions of the newborn";2007
+228;"13";"Sepsis and other infectious conditions of the newborn";2006
+229;"13";"Sepsis and other infectious conditions of the newborn";2005
+230;"13";"Sepsis and other infectious conditions of the newborn";2004
+231;"13";"Sepsis and other infectious conditions of the newborn";2003
+232;"13";"Sepsis and other infectious conditions of the newborn";2002
+233;"13";"Sepsis and other infectious conditions of the newborn";2001
+234;"13";"Sepsis and other infectious conditions of the newborn";2000
