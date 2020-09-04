@@ -132,14 +132,3 @@ Code to load the data from Staging OLTP to schema to OLAP DW schema is under Scr
 ![DataSource2](./img/dash2.jpeg)
 ![DataSource3](./img/dash3.jpeg)
 ![DataSource4](./img/dash4.jpeg)
-![DataSource5](./img/dashboard.PNG)
-![DataSource6](./img/dashboard2.PNG)
-
-
-
-##### 3. Visualization Conclusion
-- From 2000 to 2017, the higher under 5 mortality of countries concentrated on Africa, especially, Sub-Saharan Africa. Consider this situation, we estimate that the countries of Sub-Saharan Africa
- have a higher under 5 mortality rate than other continents in 2018.
-- As time goes on, under 5 children mortality decrease year by year whatever death reasons and regions. 
-- Income has a strong positive relationship with under 5 mortality. Above all, under 5 children born in a higher-income family have a lower possibility to die because of 13 reasons that we list. 
-- Although the bar chart shows that the low-income group has more under 5 average mortality rate than no income available group, it does not influence the above conclusion. It needs more data to support it because there are at least two different explanations. Such as the data of no income available group is less or under 5 children of no income available group get help from other people.
