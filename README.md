@@ -16,16 +16,14 @@ We aim to understand how this problematic is impacting different regions and cou
 ### The Main Process and our steps
 ![Main process](./img/process.PNG)
 
-1. Decide the project topic: explore under 5 mortality, death reasons and income impact.
-2. Collect related data sources: World Development Indicators (WDI - unstructured) and the World Health Organization (structured)
-3. Understand the data.
-4. Create an AWS S3 and RDS.
-5. Create a relational data model.
-6. Create python scripts to clean up the data.
-7. Create a relational database (OLTP), named mortality in MYSQL WorkBench.
-8. Create a dimensional model (OLAP), named mortality_mart in MYSQL Workbench.
-9. Set up AWS Lambda functions to import data into S3, then to Staging and finally to OLAP schema.
-10. Connect Tableau to MYSQL Workbench to create insights that helps us answer our research questions.
+1. Specify data sources: World Development Indicators (WDI - unstructured) and the World Health Organization (structured).
+2. Create a RDS SQL instance and S3 bucket in AWS.
+3. Create a relational data model (OLTP - Staging Schema).
+4. Scrape data from HWO and save in S3 bucket using a Lambda function.
+5. Move data from S3 to RDS Staging Schema with a Lambda function.
+6. Create a dimensional model (OLAP), named mortality_mart.
+7. Load data from OLTP to OLAP schema using Lambda functions that execute SQL Store Procedures.
+8. Connect Tableau to MYSQL Workbench to create visualizations that helps us answer our research questions.
 
 ### Prerequisites
 The lambda packages include the configuration files to access RDS and S3 credentials to use in s3fs.
